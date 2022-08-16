@@ -7,6 +7,6 @@
 
 3-style.css
 
-dt.gif
+4-database.gif
 
-interface.gif
+5-control interface.gif
